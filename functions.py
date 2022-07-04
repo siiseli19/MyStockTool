@@ -18,5 +18,3 @@ def make_an_excel_file():
 #Consider country codes for different perpetual growthrates
 def dcf_fair_value_estimation():
     pass
-
-def draw
